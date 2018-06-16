@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<generic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0">
+  <header>
+    <content>Lista de programas</content>
+    <created>2018-06-12</created>
+    <copyright>Copyright Reportv S.A. Todos los derechos reservados</copyright>
+  </header>
+  <programs>
+    <program ProgramId="SH00000000190762" seriesId="SH00000000190762">
+      <titles>
+        <title type="full">Apertura TX</title>
+      </titles>
+      <descriptions>
+        <desc type="series summary" />
+      </descriptions>
+      <progType>Series</progType>
+      <genres>
+        <genre>Variedades</genre>
+      </genres>
+      <ratings>
+        <rating code="TV-G" ratingsBody="USA Parental Rating" />
+      </ratings>
+      <images>
+        <image imageId="3846556" action="add" tier="Series" category="Banner" layout="Cover" width="468" height="624" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/3846556.jpg</URI>
+        </image>
+        <image imageId="3846545" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/3846545.jpg</URI>
+        </image>
+        <image imageId="3846551" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/3846551.jpg</URI>
+        </image>
+      </images>
+    </program>
+    <program ProgramId="SH00000000006255" seriesId="SH00000000006255">
+      <titles>
+        <title type="full">Piñón en familia</title>
+      </titles>
+      <descriptions>
+        <desc type="series summary">Piñón Fijo es el encargado de alegrarte las mañanas. Con su simpatía y con la magia de sus canciones, este divertido payaso te invita a que lo acompañes y te animes tú también a cantar.</desc>
+        <desc type="plot">Piñón Fijo es el encargado de alegrarte las mañanas. Con su simpatía y con la magia de sus canciones, este divertido payaso te invita a que lo acompañes y te animes tú también a cantar.</desc>
+      </descriptions>
+      <cast>
+        <member personId="168931" ord="1">
+          <role>Actor</role>
+          <name>
+            <first>Fabián</first>
+            <last>Gómez</last>
+          </name>
+        </member>
+      </cast>
+      <progType>Series</progType>
+      <genres>
+        <genre>Infantil</genre>
+      </genres>
+      <ratings>
+        <rating code="TV-G" ratingsBody="USA Parental Rating" />
+      </ratings>
+      <images>
+        <image imageId="2390326" action="add" tier="Series" category="Banner" layout="Cover" width="468" height="624" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/2390326.jpg</URI>
+        </image>
+        <image imageId="4385961" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/4385961.jpg</URI>
+        </image>
+        <image imageId="4385962" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/4385962.jpg</URI>
+        </image>
+        <image imageId="303149" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/303149.jpg</URI>
+        </image>
+        <image imageId="691922" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/691922.jpg</URI>
+        </image>
+        <image imageId="691926" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/691926.jpg</URI>
+        </image>
+        <image imageId="4385963" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/4385963.jpg</URI>
+        </image>
+        <image imageId="4385964" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/4385964.jpg</URI>
+        </image>
+        <image imageId="303146" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/303146.jpg</URI>
+        </image>
+        <image imageId="691924" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/691924.jpg</URI>
+        </image>
+        <image imageId="691928" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="false">
+          <URI>http://10.200.181.87:8090/691928.jpg</URI>
+        </image>
+      </images>
+    </program>
+    <program ProgramId="SH00000000190763" seriesId="SH00000000190763">
+      <titles>
+        <title type="full">Agroverdad bien temprano</title>
+      </titles>
+      <descriptions>
+        <desc type="series summary">Edición centrada en dar a conocer problemas técnicos, nuevas tecnologías, maquinarias y las claves de los mercados, sin dejar de lado el componente esencial del campo cordobés, sus productores, con datos de interés e informes.</desc>
+        <desc type="plot">Edición centrada en dar a conocer problemas técnicos, nuevas tecnologías, maquinarias y las claves de los mercados, sin dejar de lado el componente esencial del campo cordobés, sus productores, con datos de interés e informes.</desc>
+      </descriptions>
+      <cast>
+        <member personId="246252" ord="1">
+          <role>Actor</role>
+          <name>
+            <first>Juan Carlos</first>
+            <last>Vaca</last>
+          </name>
+        </member>
+      </cast>
+      <progType>Series</progType>
+      <genres>
+        <genre>Agro</genre>
+      </genres>
+      <ratings>
+        <rating code="TV-G" ratingsBody="USA Parental Rating" />
+      </ratings>
+      <images>
+        <image imageId="4123697" action="add" tier="Series" category="Banner" layout="Cover" width="468" height="624" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/4123697.jpg</URI>
+        </image>
+        <image imageId="4123686" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/4123686.jpg</URI>
+        </image>
+        <image imageId="4123692" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/4123692.jpg</URI>
+        </image>
+      </images>
+    </program>
+    <program ProgramId="SH00000000190764" seriesId="SH00000000190764">
+      <titles>
+        <title type="full">Arriba Córdoba</title>
+      </titles>
+      <descriptions>
+        <desc type="series summary">Programa pionero de la primera mañana. Con un estilo descontracturado, ameno y con múltiples voces son algunas de sus características, sumado a los servicios que brinda el móvil en vivo, el pronóstico y la información de último momento.</desc>
+        <desc type="plot">Programa pionero de la primera mañana. Con un estilo descontracturado, ameno y con múltiples voces son algunas de sus características, sumado a los servicios que brinda el móvil en vivo, el pronóstico y la información de último momento.</desc>
+      </descriptions>
+      <cast>
+        <member personId="2540" ord="1">
+          <role>Actor</role>
+          <name>
+            <first>Jorge</first>
+            <last>Cuadrado</last>
+          </name>
+        </member>
+        <member personId="125519" ord="2">
+          <role>Actor</role>
+          <name>
+            <first>Alejandra</first>
+            <last>Bellini</last>
+          </name>
+        </member>
+        <member personId="305635" ord="3">
+          <role>Actor</role>
+          <name>
+            <first>Manuel</first>
+            <last>Sánchez</last>
+          </name>
+        </member>
+        <member personId="284572" ord="4">
+          <role>Actor</role>
+          <name>
+            <first>Mariano</first>
+            <last>Cardarelli</last>
+          </name>
+        </member>
+      </cast>
+      <progType>Series</progType>
+      <genres>
+        <genre>Entretenimientos</genre>
+      </genres>
+      <ratings>
+        <rating code="TV-G" ratingsBody="USA Parental Rating" />
+      </ratings>
+      <images>
+        <image imageId="6494402" action="add" tier="Series" category="Banner" layout="Cover" width="468" height="624" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/6494402.jpg</URI>
+        </image>
+        <image imageId="6494391" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/6494391.jpg</URI>
+        </image>
+        <image imageId="6494397" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/6494397.jpg</URI>
+        </image>
+      </images>
+    </program>
+    <program ProgramId="SH00000000190765" seriesId="SH00000000190765">
+      <titles>
+        <title type="full">El show de la mañana</title>
+      </titles>
+      <descriptions>
+        <desc type="series summary">Disfruta de este magazine que logra imponer su ritmo, calidez, humor y, fundamentalmente, su información a través de sus equipos móviles y cronistas en cada lugar.</desc>
+        <desc type="plot">Disfruta de este magazine que logra imponer su ritmo, calidez, humor y, fundamentalmente, su información a través de sus equipos móviles y cronistas en cada lugar.</desc>
+      </descriptions>
+      <cast>
+        <member personId="196081" ord="1">
+          <role>Actor</role>
+          <name>
+            <first>Aldo</first>
+            <last>Guizzardi</last>
+          </name>
+        </member>
+        <member personId="196082" ord="2">
+          <role>Actor</role>
+          <name>
+            <first>Daniel</first>
+            <last>Potenza</last>
+          </name>
+        </member>
+        <member personId="196083" ord="3">
+          <role>Actor</role>
+          <name>
+            <first>Ivanna</first>
+            <last>Martin</last>
+          </name>
+        </member>
+        <member personId="196084" ord="4">
+          <role>Actor</role>
+          <name>
+            <first>Daniel</first>
+            <last>Alassia</last>
+          </name>
+        </member>
+        <member personId="196085" ord="5">
+          <role>Actor</role>
+          <name>
+            <first>Mariana</first>
+            <last>Asan</last>
+          </name>
+        </member>
+        <member personId="196086" ord="6">
+          <role>Actor</role>
+          <name>
+            <first>Dante</first>
+            <last>Enriquez</last>
+          </name>
+        </member>
+      </cast>
+      <progType>Series</progType>
+      <genres>
+        <genre>Magazine</genre>
+      </genres>
+      <ratings>
+        <rating code="TV-G" ratingsBody="USA Parental Rating" />
+      </ratings>
+      <images>
+        <image imageId="2677227" action="add" tier="Series" category="Banner" layout="Cover" width="468" height="624" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/2677227.jpg</URI>
+        </image>
+        <image imageId="2677228" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/2677228.jpg</URI>
+        </image>
+        <image imageId="2677229" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/2677229.jpg</URI>
+        </image>
+      </images>
+    </program>
+    
+  </programs>
+</generic>
