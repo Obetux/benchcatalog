@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ADI SYSTEM "ADI.DTD">
+<ADI>
+	<Metadata>
+		<AMS Asset_Class="package" Asset_ID="HTTL7105242423020001" Asset_Name="HBO_Succession_T1_E01_HD_STR" Creation_Date="2018-06-01" Description="Succession - Temporada 01 - #01" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+		<App_Data App="SVOD" Name="House ID" Value="TTL710524"/>
+		<App_Data App="SVOD" Name="Metadata_Spec_Version" Value="CableLabsVOD1.1"/>
+		<App_Data App="SVOD" Name="Cable Operator" Value="SVOD Cablevis Ar"/>
+	</Metadata>
+	<Asset>
+		<Metadata>
+			<AMS Asset_Class="title" Asset_ID="HTTL7105242423020002" Asset_Name="HBO_Succession_T1_E01_HD_STR" Creation_Date="2018-06-01" Description="Succession - Temporada 01 - #01_Title" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+			<App_Data App="SVOD" Name="Type" Value="title"/>
+			<App_Data App="SVOD" Name="Title_Brief" Value="Succession_T1_E01"/>
+			<App_Data App="SVOD" Name="Title" Value="T:1 Ep:01 Succession"/>
+			<App_Data App="SVOD" Name="Summary_Long" Value="En su 80º cumpleaños, el magnate de los medios Logan Roy, cuya jubilación todos daban por sentado, sorprende a su familia cuando decide mantenerse indefinidamente como presidente de Waystar/Royco. La noticia sacude no solo a su aparente heredero, Kendal Roy, sino también a sus otros tres hijos adultos."/>
+			<App_Data App="SVOD" Name="Summary_Medium" Value="En su 80º cumpleaños, el magnate de los medios Logan Roy, cuya jubilación todos daban por sentado, sorprende a su familia cuando decide mantenerse indefinidamente como presidente de Waystar/Royco. La noticia sacude no solo a su aparente heredero, Kendal Roy, sino también a sus otros tres hijos adultos."/>
+			<App_Data App="SVOD" Name="Summary_Short" Value="El magnate de los medios de comunicación Logan Roy sorprende a su familia con un importante anuncio durante su 80º cumpleaños."/>
+			<App_Data App="SVOD" Name="Rating" Value="TV-MA"/>
+			<App_Data App="SVOD" Name="Show_Type" Value="Series"/>
+			<App_Data App="SVOD" Name="Studio" Value="HBO ENTERPRISES"/>
+			<App_Data App="SVOD" Name="Distributor_Name" Value="HBO ENTERPRISES"/>
+			<App_Data App="SVOD" Name="Run_Time" Value="01:01:27"/>
+			<App_Data App="SVOD" Name="Display_Run_Time" Value="01:01"/>
+			<App_Data App="SVOD" Name="Year" Value="2018"/>
+			<App_Data App="SVOD" Name="Country_of_Origin" Value="US"/>
+			<App_Data App="SVOD" Name="Actors" Value="Cox, Brian"/>
+			<App_Data App="SVOD" Name="Actors" Value="Strong, Jeremy"/>
+			<App_Data App="SVOD" Name="Actors" Value="Abbass, Hiam"/>
+			<App_Data App="SVOD" Name="Actors" Value="Snook, Sarah"/>
+			<App_Data App="SVOD" Name="Actors" Value="Culkin, Kieran"/>
+			<App_Data App="SVOD" Name="Actors" Value="Ruck, Alan"/>
+			<App_Data App="SVOD" Name="Actors" Value="Braun, Nicholas"/>
+			<App_Data App="SVOD" Name="Actors" Value="MacFadyen, Matthew"/>
+			<App_Data App="SVOD" Name="Actors" Value="Gold, Natalie"/>
+			<App_Data App="SVOD" Name="Actors" Value="Friedman, Peter"/>
+			<App_Data App="SVOD" Name="Actors" Value="Yang, Rob"/>
+			<App_Data App="SVOD" Name="Actors_Display" Value="Peter Friedman, Kieran Culkin, Matthew MacFadyen, Brian Cox, Alan Ruck, Nicholas Braun, Hiam Abbass, Sarah Snook, Jeremy Strong, Natalie Gold, Rob Yang"/>
+			<App_Data App="SVOD" Name="Director" Value="McKay, Adam"/>
+			<App_Data App="SVOD" Name="Category" Value="Series/HBO Premium/Succession"/>
+			<App_Data App="SVOD" Name="Genre" Value="Comedia"/>
+			<App_Data App="SVOD" Name="Suggested_Price" Value="00.0"/>
+			<App_Data App="SVOD" Name="Billing_ID" Value="12345"/>
+			<App_Data App="SVOD" Name="Licensing_Window_Start" Value="2018-06-04"/>
+			<App_Data App="SVOD" Name="Licensing_Window_End" Value="2019-01-15"/>
+			<App_Data App="SVOD" Name="Preview_Period" Value="60"/>
+			<App_Data App="SVOD" Name="Provider_QA_Contact" Value="NA"/>
+			<App_Data App="SVOD" Name="Maximum_Viewing_Length" Value="01:00:00"/>
+			<App_Data App="SVOD" Name="Closed_Captioning" Value="N"/>
+			<App_Data App="SVOD" Name="Series_Title" Value="Succession"/>
+			<App_Data App="SVOD" Name="Series_ID" Value="Succession_HBO"/>
+			<App_Data App="SVOD" Name="Season_Title" Value="Temporada 1"/>
+			<App_Data App="SVOD" Name="Season_ID" Value="Succession_T02"/>
+			<App_Data App="SVOD" Name="Season_Number" Value="1"/>
+			<App_Data App="SVOD" Name="Episode_Number" Value="1"/>
+			<App_Data App="SVOD" Name="Episode_Name" Value="Celebration"/>
+			<App_Data App="SVOD" Name="Series_Poster" Value="http://10.200.182.83/posterdir/Serie/HBO_Succession_SERIE_V2.jpg"/>
+			<App_Data App="SVOD" Name="Season_Poster" Value="http://10.200.182.83/posterdir/Temporada/HBO_Succession_T1.jpg"/>
+			<App_Data App="SVOD" Name="End_Credits_Duration" Value="70"/>
+		</Metadata>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Class="movie" Asset_ID="HTTL7105242423020003" Asset_Name="HBO_Succession_T1_E01_HD_STR" Creation_Date="2018-06-01" Description="Succession - Temporada 01 - #01_Movie" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+				<App_Data App="SVOD" Name="Type" Value="movie"/>
+				<App_Data App="SVOD" Name="Audio_Type" Value="Stereo"/>
+				<App_Data App="SVOD" Name="HDContent" Value="N"/>
+				<App_Data App="SVOD" Name="Screen_Format" Value="Letterbox"/>
+				<App_Data App="SVOD" Name="Content_Format" Value="MPEG2"/>
+				<App_Data App="SVOD" Name="Encryption" Value="Y"/>
+				<App_Data App="SVOD" Name="Content_FileSize" Value="3458725112"/>
+				<App_Data App="SVOD" Name="Content_CheckSum" Value="54773ebaeee72a249a77b96f7684cad3"/>
+				<App_Data App="SVOD" Name="Languages" Value="en"/>
+				<App_Data App="SVOD" Name="Subtitle_Languages" Value="es"/>
+</Metadata>
+			<Content Value="HBO_Succession_T1_E01_HD_STR.ts"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Class="poster" Asset_ID="HTTL7105242423020004" Asset_Name="HBO_Succession_T1_E01_HD_STR" Creation_Date="2018-06-01" Description="Succession - Temporada 01 - #01_poster" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+				<App_Data App="SVOD" Name="Type" Value="poster"/>
+				<App_Data App="SVOD" Name="Image_Aspect_Ratio" Value="1920x1080"/>
+				<App_Data App="SVOD" Name="Content_FileSize" Value="212012"/>
+				<App_Data App="SVOD" Name="Content_CheckSum" Value="3f2fb0c6ea9861c5f218437e0b822370"/>
+			</Metadata>
+			<Content Value="HBO_Succession_T1_E01_HD_STR.jpg"/>
+		</Asset>
+</Asset>
+</ADI>

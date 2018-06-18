@@ -2,6 +2,9 @@
 
 namespace App\Command;
 
+use App\Entity\VODContent;
+use Doctrine\ORM\EntityManager;
+use Doctrine\ORM\EntityManagerInterface;
 use DOMDocument;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
@@ -14,6 +17,16 @@ class AppLoadVodCvaCommand extends Command
 {
     protected static $defaultName = 'app:load-vod-cva';
 
+    private $doctrine;
+
+    public function __construct(EntityManagerInterface $doctrine)
+    {
+        $this->doctrine = $doctrine;
+
+        parent::__construct();
+    }
+
+
     protected function configure()
     {
         $this
@@ -25,110 +38,94 @@ class AppLoadVodCvaCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+
+
         $io = new SymfonyStyle($input, $output);
         $arg1 = $input->getArgument('arg1');
 
-        $output->writeln([
-            'User Creator',
-            '============',
-            '',
-        ]);
-
-        if ($arg1) {
-            $io->note(sprintf('You passed an argument: %s', $arg1));
-        }
-
-        if ($input->getOption('option1')) {
-            $io->note(sprintf('You passed an option: %s', $input->getOption('option1')));
-        }
-        $io->comment('User Creator');
-
         $doc = new DOMDocument();
-        $doc->load('E:\wamp64\www\benchcatalog\public\programs.xml');
+//        $doc->load('C:\wamp64\www\benchcatalog\public\HBO_Sola_Contra_el_Poder_HD_STR.XML');
+        $doc->load('C:\wamp64\www\benchcatalog\public\HBO_Succession_T1_E01_HD_STR.XML');
 
-        $programs = $doc->getElementsByTagName("program");
-        foreach ($programs as $program) {
-            $io->comment('NUEVO CONTENIDO');
-            /** @var \DOMElement $program */
-            dump($program->getAttribute('ProgramId'));
-            dump($program->getAttribute('seriesId'));
-            /** @var \DOMNodeList $titles */
-            $titles = $program->getElementsByTagName('titles');
-            $title = $titles->item(0)->nodeValue;
 
-            $io->comment('TITULO');
-            dump(trim($title ));
+        $vod = new VODContent();
 
-            /** @var \DOMNodeList $descriptions */
-            $descriptions = $program->getElementsByTagName('descriptions');
 
-            $io->comment('DESCRIPCION');
-            for ($i=0; $i < $descriptions->item(0)->getElementsByTagName('desc')->length; $i++)
-            {
-                dump($descriptions->item(0)->getElementsByTagName('desc')->item($i)->getAttribute('type') );
-                dump($descriptions->item(0)->getElementsByTagName('desc')->item($i)->nodeValue );
+        $adi = $doc->getElementsByTagName("ADI")->item(0);
+
+        $package = $adi->getElementsByTagName('Metadata')->item(0);
+        $packageAms = $package->getElementsByTagName('AMS')->item(0);
+//        dump($packageAms->getAttribute('Asset_Class'));
+
+        $asset = $adi->getElementsByTagName('Asset')->item(0);
+        $assetMetadata = $asset->getElementsByTagName('Metadata')->item(0);
+        $assetMetadataAMS = $assetMetadata->getElementsByTagName('AMS')->item(0);
+//        dump($assetMetadataAMS->getAttribute('Asset_Class') );
+
+        $assetMetadataAppData = $assetMetadata->getElementsByTagName('App_Data');
+
+        /** @var \DOMElement $data */
+        foreach ($assetMetadataAppData as $data) {
+//            dump($data->getAttribute('App'));
+//            dump($data->getAttribute('Name'));
+//            dump($data->getAttribute('Value'));
+            $value = $data->getAttribute('Value');
+            switch ($data->getAttribute('Name')){
+                case 'Title':
+                    $vod->setTitle($value);
+                    break;
+                case 'Summary_Short':
+                    $vod->setSummaryShort($value);
+                    break;
+                case 'Summary_Long':
+                    $vod->setSummaryLong($value);
+                    break;
+                case 'Rating':
+                    $vod->setRating($value);
+                    break;
+                case 'Year':
+                    $vod->setYear($value);
+                    break;
+                case 'Country_of_Origin':
+                    $vod->setCountry($value);
+                    break;
+                case 'Actors_Display':
+                    $vod->setActorsDisplay($value);
+                    break;
+                case 'Director':
+                    $vod->setDirectors($value);
+                    break;
+                case 'Genre':
+                    $vod->setGenre($value);
+                    break;
+                case 'Category':
+                    $vod->setCategory($value);
+                    break;
+                case 'Show_Type':
+                    $vod->setShowType($value);
+                    break;
+
+                case 'Series_Title':
+                    $vod->setSeriesTitle($value);
+                    break;
+                case 'Season_Number':
+                    $vod->setSeasonNumber($value);
+                    break;
+                case 'Season_Title':
+                    $vod->setSeasonName($value);
+                    break;
+                case 'Episode_Name':
+                    $vod->setEpisodeName($value);
+                    break;
+                case 'Episode_Number':
+                    $vod->setEpisodeNumber($value);
+                    break;
+
             }
-
-            $io->comment('CAST');
-            /** @var \DOMNodeList $cast */
-            $cast = $program->getElementsByTagName('cast');
-
-            if (($cast) && ($cast->length)) {
-                for ($i=0; $i < $cast->item(0)->getElementsByTagName('member')->length; $i++) {
-                    $member = $cast->item(0)->getElementsByTagName('member')->item($i);
-                    dump($member->getAttribute('personId'));
-                    dump($member->getAttribute('ord'));
-                    dump($member->getElementsByTagName('role')->item(0)->nodeValue);
-
-                    $name = $member->getElementsByTagName('name')->item(0);
-                    dump($name->getElementsByTagName('first')->item(0)->nodeValue);
-                    dump($name->getElementsByTagName('last')->item(0)->nodeValue);
-                }
-
-//                $members = $cast->getElementsByTagName('member');
-//                foreach( $members as $member )
-//                {
-//                    dump($member);
-//                }
-            }
-
-            $io->comment('TIPO PROGRAMA');
-            $progType = $program->getElementsByTagName('progType');
-            dump($progType->item(0)->nodeValue);
-
-            $io->comment('GENERO');
-            $genres = $program->getElementsByTagName('genres');
-            $genres = $genres->item(0)->nodeValue;
-            dump(trim($genres));
-
-            $io->comment('RATINGS');
-            $ratings = $program->getElementsByTagName('ratings');
-            $rating = $ratings->item(0)->getElementsByTagName('rating')->item(0);
-            dump($rating->getAttribute('code'));
-            dump($rating->getAttribute('ratingsBody'));
-
-            $io->comment('IMAGENES');
-            $images = $program->getElementsByTagName('images');
-            if (($images) && ($images->length)) {
-                for ($i = 0; $i < $images->item(0)->getElementsByTagName('image')->length; $i++) {
-                    $image = $images->item(0)->getElementsByTagName('image')->item($i);
-                    dump($image->getAttribute('imageId'));
-                    dump($image->getAttribute('action'));
-                    dump($image->getAttribute('tier'));
-                    dump($image->getAttribute('category'));
-                    dump($image->getAttribute('layout'));
-                    dump($image->getAttribute('width'));
-                    dump($image->getAttribute('height'));
-                    dump($image->getAttribute('type'));
-                    dump($image->getAttribute('primary'));
-
-                   $uri =  $image->getElementsByTagName('URI')->item(0);
-                    dump($uri->nodeValue);
-                }
-            }
-            $io->success('FIN CONTENIDO');
-
         }
+
+        $this->doctrine->persist($vod);
+        $this->doctrine->flush();
 
         $io->success('You have a new command! Now make it your own! Pass --help to see your options.');
     }

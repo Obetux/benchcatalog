@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ADI SYSTEM "ADI.DTD">
+<ADI>
+	<Metadata>
+		<AMS Asset_Class="package" Asset_ID="HTTL6143852415130001" Asset_Name="HBO_Sola_Contra_el_Poder_HD_STR" Creation_Date="2018-05-24" Description="Sola Contra El Poder" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+		<App_Data App="SVOD" Name="Metadata_Spec_Version" Value="CableLabsVOD1.1"/>
+	</Metadata>
+	<Asset>
+		<Metadata>
+			<AMS Asset_Class="title" Asset_ID="HTTL6143852415130002" Asset_Name="HBO_Sola_Contra_el_Poder_HD_STR" Creation_Date="2018-05-24" Description="Sola Contra El Poder_Title" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+			<App_Data App="SVOD" Name="Type" Value="title"/>
+			<App_Data App="SVOD" Name="Title_Brief" Value="Sola_Contra_el_Pode"/>
+			<App_Data App="SVOD" Name="Title" Value="Sola Contra el Poder"/>
+			<App_Data App="SVOD" Name="Summary_Long" Value="Elizabeth Sloane es una cabildera despiadada que hace todo lo necesario para ganar. Pero cuando debe enfrentar el oponente más poderoso de su carrera, descubre que su actitud desafiante hará que amenacen su carrera y todo el que la rodea.  Esta película nominada a un Globo de Oro® es dirigida por el nominado al Premio de la Academia® John Madden."/>
+			<App_Data App="SVOD" Name="Summary_Medium" Value="Elizabeth Sloane es una cabildera despiadada que hace todo lo necesario para ganar. Pero cuando debe enfrentar el oponente más poderoso de su carrera, descubre que su actitud desafiante hará que amenacen su carrera y todo el que la rodea.  Esta película nominada a un Globo de Oro® es dirigida por el nominado al Premio de la Academia® John Madden."/>
+			<App_Data App="SVOD" Name="Summary_Short" Value="Una despiadada cabildera descubre que su actitud desafiante le puede costar no sólo su carrera sino también las personas que le importan."/>
+			<App_Data App="SVOD" Name="Rating" Value="R"/>
+			<App_Data App="SVOD" Name="Show_Type" Value="Movies"/>
+			<App_Data App="SVOD" Name="Studio" Value="BUENA VISTA"/>
+			<App_Data App="SVOD" Name="Distributor_Name" Value="BUENA VISTA"/>
+			<App_Data App="SVOD" Name="Run_Time" Value="02:12:35"/>
+			<App_Data App="SVOD" Name="Display_Run_Time" Value="02:12"/>
+			<App_Data App="SVOD" Name="Year" Value="2016"/>
+			<App_Data App="SVOD" Name="Country_of_Origin" Value="US"/>
+			<App_Data App="SVOD" Name="Actors" Value="Chastain, Jessica"/>
+			<App_Data App="SVOD" Name="Actors" Value="Stuhlbarg, Michael"/>
+			<App_Data App="SVOD" Name="Actors" Value="Mbatha-Raw, Gugu"/>
+			<App_Data App="SVOD" Name="Actors" Value="Strong, Mark"/>
+			<App_Data App="SVOD" Name="Actors" Value="Lithgow, John"/>
+			<App_Data App="SVOD" Name="Actors" Value="Baranski, Christine"/>
+			<App_Data App="SVOD" Name="Actors" Value="Pill, Alison"/>
+			<App_Data App="SVOD" Name="Actors" Value="Waterston, Sam"/>
+			<App_Data App="SVOD" Name="Actors" Value="Lacy, Jake"/>
+			<App_Data App="SVOD" Name="Actors" Value="Smith, Douglas"/>
+			<App_Data App="SVOD" Name="Actors" Value="Baker, Dylan"/>
+			<App_Data App="SVOD" Name="Actors_Display" Value="Christine Baranski, Sam Waterston, Dylan Baker, John Lithgow, Alison Pill, Mark Strong, Douglas Smith, Jessica Chastain, Jake Lacy, Michael Stuhlbarg, Gugu Mbatha-Raw"/>
+			<App_Data App="SVOD" Name="Director" Value="Madden, John"/>
+			<App_Data App="SVOD" Name="Category" Value="Películas/HBO Premium"/>
+			<App_Data App="SVOD" Name="Genre" Value="Suspenso"/>
+			<App_Data App="SVOD" Name="Suggested_Price" Value="00.0"/>
+			<App_Data App="SVOD" Name="Billing_ID" Value="12345"/>
+			<App_Data App="SVOD" Name="Licensing_Window_Start" Value="2018-06-04"/>
+			<App_Data App="SVOD" Name="Licensing_Window_End" Value="2018-08-30"/>
+			<App_Data App="SVOD" Name="Preview_Period" Value="60"/>
+			<App_Data App="SVOD" Name="Provider_QA_Contact" Value="NA"/>
+			<App_Data App="SVOD" Name="Maximum_Viewing_Length" Value="01:00:00"/>
+			<App_Data App="SVOD" Name="Closed_Captioning" Value="N"/>
+			<App_Data App="SVOD" Name="End_Credits_Duration" Value="354"/>
+		</Metadata>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Class="movie" Asset_ID="HTTL6143852415130003" Asset_Name="HBO_Sola_Contra_el_Poder_HD_STR" Creation_Date="2018-05-24" Description="Sola Contra El Poder_Movie" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+				<App_Data App="SVOD" Name="Type" Value="movie"/>
+				<App_Data App="SVOD" Name="Audio_Type" Value="Stereo"/>
+				<App_Data App="SVOD" Name="HDContent" Value="Y"/>
+				<App_Data App="SVOD" Name="Screen_Format" Value="Letterbox"/>
+				<App_Data App="SVOD" Name="Content_Format" Value="H264"/>
+				<App_Data App="SVOD" Name="Encryption" Value="Y"/>
+				<App_Data App="SVOD" Name="Content_FileSize" Value="7460245140"/>
+				<App_Data App="SVOD" Name="Content_CheckSum" Value="851fdc5fc4bad83e753834c8132304b5"/>
+				<App_Data App="SVOD" Name="Languages" Value="en"/>
+				<App_Data App="SVOD" Name="Subtitle_Languages" Value="es"/>
+</Metadata>
+			<Content Value="HBO_Sola_Contra_el_Poder_HD_STR.ts"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Class="poster" Asset_ID="HTTL6143852415130004" Asset_Name="HBO_Sola_Contra_el_Poder_HD_STR" Creation_Date="2018-05-24" Description="Sola Contra El Poder_poster" Product="SVOD" Provider="HBO" Provider_ID="hbo-la.tv" Verb="" Version_Major="1" Version_Minor="0"/>
+				<App_Data App="SVOD" Name="Type" Value="poster"/>
+				<App_Data App="SVOD" Name="Content_FileSize" Value="126046"/>
+				<App_Data App="SVOD" Name="Content_CheckSum" Value="c2e5f5bc6c2ae9e5953fe358f34c8aa9"/>
+			</Metadata>
+			<Content Value="HBO_Sola_Contra_el_Poder_HD_STR.jpg"/>
+		</Asset>
+</Asset>
+</ADI>
