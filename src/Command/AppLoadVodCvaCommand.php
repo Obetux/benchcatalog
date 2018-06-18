@@ -46,9 +46,8 @@ class AppLoadVodCvaCommand extends Command
         $doc = new DOMDocument();
         $doc->load('E:\wamp64\www\benchcatalog\public\programs.xml');
 
-        $programs = $doc->getElementsByTagName( "program" );
-        foreach( $programs as $program )
-        {
+        $programs = $doc->getElementsByTagName("program");
+        foreach ($programs as $program) {
             $io->comment('NUEVO CONTENIDO');
             /** @var \DOMElement $program */
             dump($program->getAttribute('ProgramId'));
@@ -70,12 +69,65 @@ class AppLoadVodCvaCommand extends Command
                 dump($descriptions->item(0)->getElementsByTagName('desc')->item($i)->nodeValue );
             }
 
+            $io->comment('CAST');
+            /** @var \DOMNodeList $cast */
+            $cast = $program->getElementsByTagName('cast');
+
+            if (($cast) && ($cast->length)) {
+                for ($i=0; $i < $cast->item(0)->getElementsByTagName('member')->length; $i++) {
+                    $member = $cast->item(0)->getElementsByTagName('member')->item($i);
+                    dump($member->getAttribute('personId'));
+                    dump($member->getAttribute('ord'));
+                    dump($member->getElementsByTagName('role')->item(0)->nodeValue);
+
+                    $name = $member->getElementsByTagName('name')->item(0);
+                    dump($name->getElementsByTagName('first')->item(0)->nodeValue);
+                    dump($name->getElementsByTagName('last')->item(0)->nodeValue);
+                }
+
+//                $members = $cast->getElementsByTagName('member');
+//                foreach( $members as $member )
+//                {
+//                    dump($member);
+//                }
+            }
+
             $io->comment('TIPO PROGRAMA');
             $progType = $program->getElementsByTagName('progType');
             dump($progType->item(0)->nodeValue);
-//            dump($descriptions->item(0)->getElementsByTagName('desc')->item(1)->nodeValue );
 
-//            dump($program);exit;
+            $io->comment('GENERO');
+            $genres = $program->getElementsByTagName('genres');
+            $genres = $genres->item(0)->nodeValue;
+            dump(trim($genres));
+
+            $io->comment('RATINGS');
+            $ratings = $program->getElementsByTagName('ratings');
+            $rating = $ratings->item(0)->getElementsByTagName('rating')->item(0);
+            dump($rating->getAttribute('code'));
+            dump($rating->getAttribute('ratingsBody'));
+
+            $io->comment('IMAGENES');
+            $images = $program->getElementsByTagName('images');
+            if (($images) && ($images->length)) {
+                for ($i = 0; $i < $images->item(0)->getElementsByTagName('image')->length; $i++) {
+                    $image = $images->item(0)->getElementsByTagName('image')->item($i);
+                    dump($image->getAttribute('imageId'));
+                    dump($image->getAttribute('action'));
+                    dump($image->getAttribute('tier'));
+                    dump($image->getAttribute('category'));
+                    dump($image->getAttribute('layout'));
+                    dump($image->getAttribute('width'));
+                    dump($image->getAttribute('height'));
+                    dump($image->getAttribute('type'));
+                    dump($image->getAttribute('primary'));
+
+                   $uri =  $image->getElementsByTagName('URI')->item(0);
+                    dump($uri->nodeValue);
+                }
+            }
+            $io->success('FIN CONTENIDO');
+
         }
 
         $io->success('You have a new command! Now make it your own! Pass --help to see your options.');

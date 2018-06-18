@@ -6,32 +6,7 @@
     <copyright>Copyright Reportv S.A. Todos los derechos reservados</copyright>
   </header>
   <programs>
-    <program ProgramId="SH00000000190762" seriesId="SH00000000190762">
-      <titles>
-        <title type="full">Apertura TX</title>
-      </titles>
-      <descriptions>
-        <desc type="series summary" />
-      </descriptions>
-      <progType>Series</progType>
-      <genres>
-        <genre>Variedades</genre>
-      </genres>
-      <ratings>
-        <rating code="TV-G" ratingsBody="USA Parental Rating" />
-      </ratings>
-      <images>
-        <image imageId="3846556" action="add" tier="Series" category="Banner" layout="Cover" width="468" height="624" type="image/jpg" primary="true">
-          <URI>http://10.200.181.87:8090/3846556.jpg</URI>
-        </image>
-        <image imageId="3846545" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="true">
-          <URI>http://10.200.181.87:8090/3846545.jpg</URI>
-        </image>
-        <image imageId="3846551" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="true">
-          <URI>http://10.200.181.87:8090/3846551.jpg</URI>
-        </image>
-      </images>
-    </program>
+    
     <program ProgramId="SH00000000006255" seriesId="SH00000000006255">
       <titles>
         <title type="full">Piñón en familia</title>
@@ -89,6 +64,32 @@
         </image>
         <image imageId="691928" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="false">
           <URI>http://10.200.181.87:8090/691928.jpg</URI>
+        </image>
+      </images>
+    </program>
+	<program ProgramId="SH00000000190762" seriesId="SH00000000190762">
+      <titles>
+        <title type="full">Apertura TX</title>
+      </titles>
+      <descriptions>
+        <desc type="series summary" />
+      </descriptions>
+      <progType>Series</progType>
+      <genres>
+        <genre>Variedades</genre>
+      </genres>
+      <ratings>
+        <rating code="TV-G" ratingsBody="USA Parental Rating" />
+      </ratings>
+      <images>
+        <image imageId="3846556" action="add" tier="Series" category="Banner" layout="Cover" width="468" height="624" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/3846556.jpg</URI>
+        </image>
+        <image imageId="3846545" action="add" tier="Series" category="Banner" layout="Scene" width="800" height="542" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/3846545.jpg</URI>
+        </image>
+        <image imageId="3846551" action="add" tier="Series" category="Banner" layout="Detail" width="542" height="800" type="image/jpg" primary="true">
+          <URI>http://10.200.181.87:8090/3846551.jpg</URI>
         </image>
       </images>
     </program>
