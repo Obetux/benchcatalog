@@ -70,7 +70,7 @@ class AppLoadVodCvaCommand extends Command
 //            dump($data->getAttribute('Name'));
 //            dump($data->getAttribute('Value'));
             $value = $data->getAttribute('Value');
-            switch ($data->getAttribute('Name')){
+            switch ($data->getAttribute('Name')) {
                 case 'Title':
                     $vod->setTitle($value);
                     break;
