@@ -2,21 +2,21 @@
 
 namespace App\Repository;
 
-use App\Entity\VODContent;
+use App\Entity\VodContent;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Symfony\Bridge\Doctrine\RegistryInterface;
 
 /**
- * @method VODContent|null find($id, $lockMode = null, $lockVersion = null)
- * @method VODContent|null findOneBy(array $criteria, array $orderBy = null)
- * @method VODContent[]    findAll()
- * @method VODContent[]    findBy(array $criteria, array $orderBy = null, $limit = null, $offset = null)
+ * @method VodContent|null find($id, $lockMode = null, $lockVersion = null)
+ * @method VodContent|null findOneBy(array $criteria, array $orderBy = null)
+ * @method VodContent[]    findAll()
+ * @method VodContent[]    findBy(array $criteria, array $orderBy = null, $limit = null, $offset = null)
  */
 class VODContentRepository extends ServiceEntityRepository
 {
     public function __construct(RegistryInterface $registry)
     {
-        parent::__construct($registry, VODContent::class);
+        parent::__construct($registry, VodContent::class);
     }
 
 //    /**

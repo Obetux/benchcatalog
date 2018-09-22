@@ -1,0 +1,137 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}VoD Benchmark{% endblock %}
+
+{% block body %}
+    <div class="container">
+    HOLA
+    </div>
+    <div class="">
+        <table class="table table-hover table-dark table-bordered">
+            <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">CVA</th>
+                <th scope="col">Gracenote</th>
+                <th scope="col">Handle</th>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">Asset ID</th>
+                    <td>{{ cva.assetId }}</td>
+                    <td>Otto</td>
+                    <td>@mdo</td>
+                </tr>
+                <tr>
+                    <th scope="row">Title</th>
+                    <td>{{ cva.title }}</td>
+                    <td>Thornton</td>
+                    <td>@fat</td>
+                </tr>
+                <tr>
+                    <th scope="row">Series Title</th>
+                    <td >{{ cva.seriesTitle }}</td>
+                    <td>@twitter</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Summary Short</th>
+                    <td>{{ cva.SummaryShort }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Summary Long</th>
+                    <td>{{ cva.summaryLong }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Rating</th>
+                    <td>{{ cva.rating }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Year</th>
+                    <td>{{ cva.year }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Country</th>
+                    <td>{{ cva.country }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Actors</th>
+                    <td>{{ cva.actorsDisplay }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Directors</th>
+                    <td>{{ cva.directors }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Genres</th>
+                    <td>{{ cva.genre }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Series Desc</th>
+                    <td>{{ cva.seriesDescription }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Season Name</th>
+                    <td>{{ cva.seasonName }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Season Number</th>
+                    <td>{{ cva.seasonNumber }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Episode Name</th>
+                    <td>{{ cva.episodeName }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Episode Number</th>
+                    <td>{{ cva.episodeNumber }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Keywords</th>
+                    <td>{{ cva.keywords }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Show Type</th>
+                    <td>{{ cva.showType }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th scope="row">Audience</th>
+                    <td>{{ cva.audience }}</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

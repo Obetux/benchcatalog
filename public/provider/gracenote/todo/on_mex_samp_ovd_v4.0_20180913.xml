@@ -1,0 +1,3232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ovd version="4.0">
+  <onlineTv>
+    <series>
+      <rootId>8282918</rootId>
+      <tmsId>SH013359690000</tmsId>
+      <seriesId>8282918</seriesId>
+      <title>The Walking Dead</title>
+      <description>Tras estar en estado de coma, el policía Rick Grimes descubre que una enfermedad originó un apocalipsis zombi. Rick liderará un grupo de sobrevivientes para buscar un lugar seguro, pero las luchas más peligrosas surgirán entre ellos mismos.</description>
+      <airDate>2010-10-31</airDate>
+      <seasons>
+      </seasons>
+      <episodes>
+        <episode>
+          <rootId>8338240</rootId>
+          <tmsId>EP013359690001</tmsId>
+          <title>Agallas</title>
+          <airDate>2010-11-07</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>Rick involuntariamente provoca que un grupo de sobrevivientes sean atrapados por unos caminantes; Rick debe enfrentar a un enemigo más peligroso que los inmortales.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091046</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70210888</url>
+              </urls>
+              <duration source="Netflix MX">2688</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8338395</rootId>
+          <tmsId>EP013359690002</tmsId>
+          <title>Dícelo a las ranas</title>
+          <airDate>2010-11-14</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Rick regresa a Atlanta para salvarle la vida a un hombre; Lori y Shane se enfrentan al sorprendente regreso de alguien que creían estaba muerto.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091045</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70210889</url>
+              </urls>
+              <duration source="Netflix MX">2717</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8282920</rootId>
+          <tmsId>EP013359690003</tmsId>
+          <title>Los viejos tiempos</title>
+          <airDate>2010-10-31</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>1</episodeNumber>
+          <description>Rich busca a su familia después de salir de un estado de coma; Morgan y Duane ayudan a enseñar a Rick las nuevas reglas de supervivencia.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091041</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70210887</url>
+              </urls>
+              <duration source="Netflix MX">4037</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8343039</rootId>
+          <tmsId>EP013359690004</tmsId>
+          <title>Muchachos</title>
+          <airDate>2010-11-21</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>La misión de Rick en Atlanta corre peligro. Jim se convierte en un desquiciado en el campamento.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091043</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70210890</url>
+              </urls>
+              <duration source="Netflix MX">2703</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8343366</rootId>
+          <tmsId>EP013359690005</tmsId>
+          <title>Código Wildfire</title>
+          <airDate>2010-11-28</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>Rick conduce al grupo al CDC después del ataque, mientras que Jim debe tomar una terrible decisión de vida o muerte.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091044</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70210891</url>
+              </urls>
+              <duration source="Netflix MX">2707</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8388736</rootId>
+          <tmsId>EP013359690006</tmsId>
+          <title>TS-19</title>
+          <airDate>2010-12-05</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Rick y el grupo son aceptados en el CDC por un médico muy extraño; no todo es lo que parece en su paraíso recién descubierto.</description>
+          <rating>ACB R 18+, BBFC 18, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091042</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70210892</url>
+              </urls>
+              <duration source="Netflix MX">2729</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8823143</rootId>
+          <tmsId>EP013359690007</tmsId>
+          <title>Lo que nos espera</title>
+          <airDate>2011-10-16</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>1</episodeNumber>
+          <description>Rick encabeza al grupo de Atlante; el grupo es detenido por una amenaza diferente a todo lo que habían visto antes; la búsqueda de alguien que ha desaparecido.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091049</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248461</url>
+              </urls>
+              <duration source="Netflix MX">3774</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8823281</rootId>
+          <tmsId>EP013359690008</tmsId>
+          <title>Sangría</title>
+          <airDate>2011-10-23</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>Rick descubre un posible refugio seguro; Shane debe realizar una misión peligrosa para conseguir los suministros médicos que necesitan.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091047</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248462</url>
+              </urls>
+              <duration source="Netflix MX">2548</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8823363</rootId>
+          <tmsId>EP013359690009</tmsId>
+          <title>Guarda la última</title>
+          <airDate>2011-10-30</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>El grupo espera el regreso de Shane; Shane descubre a alguien atrapado en la escuela; Daryl y Andrea buscan a alguien en el bosque.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091048</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248463</url>
+              </urls>
+              <duration source="Netflix MX">2602</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8865687</rootId>
+          <tmsId>EP013359690010</tmsId>
+          <title>La rosa cheroqui</title>
+          <airDate>2011-11-06</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>Shane hace sacrificio mortal; el grupo intenta aferrarse entre vivir para morir o morir para vivir.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091053</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248464</url>
+              </urls>
+              <duration source="Netflix MX">2608</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8871790</rootId>
+          <tmsId>EP013359690011</tmsId>
+          <title>Chupacabra</title>
+          <airDate>2011-11-13</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>Preocupado por su seguridad, el grupo realiza un plan que desagrada rotundamente a Hershel. Él le deja claro al grupo que está bien por el momento, pero no indefinidamente.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091052</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248465</url>
+              </urls>
+              <duration source="Netflix MX">2583</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8872091</rootId>
+          <tmsId>EP013359690012</tmsId>
+          <title>Secretos</title>
+          <airDate>2011-11-20</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Glenn sabe demasiado para su nivel de comodidad; Daryl encuentra una señal de vida e intenta regresar con vida a la granja.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091051</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248466</url>
+              </urls>
+              <duration source="Netflix MX">2583</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8872238</rootId>
+          <tmsId>EP013359690013</tmsId>
+          <title>Prácticamente muertos</title>
+          <airDate>2011-11-27</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>7</episodeNumber>
+          <description>Secretos son contados y revelados; Hershel se niega a reconocer la nueva realidad del mundo; Andrea sale de su caparazón; todo es comida para algo.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091050</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248467</url>
+              </urls>
+              <duration source="Netflix MX">2574</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>8969357</rootId>
+          <tmsId>EP013359690014</tmsId>
+          <title>Nebraska</title>
+          <airDate>2012-02-12</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>8</episodeNumber>
+          <description>Rick y otros intentan restaurar el orden después de un terrible descubrimiento; Hershel retoma una vieja costumbre y desaparece.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091057</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248468</url>
+              </urls>
+              <duration source="Netflix MX">2588</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9015428</rootId>
+          <tmsId>EP013359690016</tmsId>
+          <title>El dedo del gatillo</title>
+          <airDate>2012-02-19</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>9</episodeNumber>
+          <description>Rick, Hershel y Glenn están atrapados y luchan por sobrevivir; Shane descubre a Lori en peligro.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091056</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248469</url>
+              </urls>
+              <duration source="Netflix MX">2590</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9015475</rootId>
+          <tmsId>EP013359690017</tmsId>
+          <title>18 millas afuera</title>
+          <airDate>2012-02-26</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>10</episodeNumber>
+          <description>Rick y Shane están en conflicto por destino de un extraño; Andrea ayuda a la hija de Hershel a enfrentar una decisión crucial.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091055</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248470</url>
+              </urls>
+              <duration source="Netflix MX">2569</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9056955</rootId>
+          <tmsId>EP013359690018</tmsId>
+          <title>Juez, jurado y verdugo</title>
+          <airDate>2012-03-04</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>11</episodeNumber>
+          <description>Rick apoya a Shane causando que Dale se preocupe porque el grupo está perdiendo su humanidad; las acciones de Carl tienen consecuencias no deseadas.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091054</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248471</url>
+              </urls>
+              <duration source="Netflix MX">2590</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9056974</rootId>
+          <tmsId>EP013359690019</tmsId>
+          <title>Los mejores ángeles</title>
+          <airDate>2012-03-11</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>12</episodeNumber>
+          <description>Alguien peligroso puede estar suelto cerca del rancho; Rick, Shane, Daryl y Glenn buscan por el bosque para remediar la situación y mantener el grupo a salvo.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091059</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248472</url>
+              </urls>
+              <duration source="Netflix MX">2600</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9056980</rootId>
+          <tmsId>EP013359690020</tmsId>
+          <title>Cerca del fuego que se apaga</title>
+          <airDate>2012-03-18</airDate>
+          <seasonNumber>2</seasonNumber>
+          <episodeNumber>13</episodeNumber>
+          <description>Rick y Carl encuentran la granja en peligro; en el caos el grupo se divide; el liderazgo de Rick es puesto en duda.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091058</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70248473</url>
+              </urls>
+              <duration source="Netflix MX">2589</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9181510</rootId>
+          <tmsId>EP013359690021</tmsId>
+          <title>Semilla</title>
+          <airDate>2012-10-14</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>1</episodeNumber>
+          <description>Mientras el mundo se vuelve más peligroso y el embarazo de Lori continúa, Rick localiza un refugio potencialmente seguro.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091060</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260047</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9433837</rootId>
+          <tmsId>EP013359690025</tmsId>
+          <title>Enfermo</title>
+          <airDate>2012-10-21</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>Después de un evento traumático, una vida pende de un hilo; las cosas se complican y el grupo debe enfrentarse a la potencial amenaza que rodea su nuevo entorno.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091075</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260048</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9433838</rootId>
+          <tmsId>EP013359690026</tmsId>
+          <title>Camina conmigo</title>
+          <airDate>2012-10-28</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Andrea y Michonne descubren una nueva comunidad de sobrevivientes; una decisión debe ser tomada.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091074</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260049</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9498957</rootId>
+          <tmsId>EP013359690031</tmsId>
+          <title>El asesino interior</title>
+          <airDate>2012-11-04</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>El grupo es dividido y varias vidas son puestas en peligro mientras que en Woodbury, Merle tiene una petición para el gobernador.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091073</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260050</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9498958</rootId>
+          <tmsId>EP013359690032</tmsId>
+          <title>Lo que digas</title>
+          <airDate>2012-11-11</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>Rick lucha después de otra pérdida; Michonne sospecha del gobernador cuando él organiza una fiesta muy especial para la gente de Woodbury.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB PG, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091072</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260051</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9498959</rootId>
+          <tmsId>EP013359690033</tmsId>
+          <title>Acosados</title>
+          <airDate>2012-11-18</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Mientras Andrea se acerca cada vez más al gobernador, Michonne toma una decisión importante acerca de Woodbury; Glenn y Maggie van corriendo; Rick tiene dificultades.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091071</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260052</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9498960</rootId>
+          <tmsId>EP013359690034</tmsId>
+          <title>Cuando los muertos tocan la puerta</title>
+          <airDate>2012-11-25</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>7</episodeNumber>
+          <description>El gobernador busca información; un recién llegado a la prisión obliga a Rick a actuar.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091070</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260053</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9533813</rootId>
+          <tmsId>EP013359690049</tmsId>
+          <title>Hecho para sufrir</title>
+          <airDate>2012-12-02</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>8</episodeNumber>
+          <description>Andrea se presenta cuando las personas de Woodbury son echados a un territorio desconocido; una nueva amenaza surge en la prisión.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091068</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260054</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9674306</rootId>
+          <tmsId>EP013359690056</tmsId>
+          <title>El rey del suicidio</title>
+          <airDate>2013-02-10</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>9</episodeNumber>
+          <description>Rick intenta salvar a uno de su grupo; Woodbury en desorden; nuevos huéspedes en la prisión aumentan las preocupaciones.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091067</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260055</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9674307</rootId>
+          <tmsId>EP013359690057</tmsId>
+          <title>Hogar</title>
+          <airDate>2013-02-16</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>10</episodeNumber>
+          <description>El grupo discute el siguiente paso; Rick busca a un amigo perdido; Daryl y Merle cuestionan sus opciones; el gobernador restaura el orden.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091069</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260056</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9674308</rootId>
+          <tmsId>EP013359690058</tmsId>
+          <title>No soy Judas</title>
+          <airDate>2013-02-24</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>11</episodeNumber>
+          <description>Rick y el grupo deben tomar una decisión cuando la seguridad es amenazada; Andrea está inquieta.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091066</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260057</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9700300</rootId>
+          <tmsId>EP013359690062</tmsId>
+          <title>Claro</title>
+          <airDate>2013-03-03</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>12</episodeNumber>
+          <description>Superados por las fuerzas del gobierno, Rick encabeza una expedición para obtener más armas.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091065</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260058</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9700311</rootId>
+          <tmsId>EP013359690063</tmsId>
+          <title>La flecha en el marco de la puerta</title>
+          <airDate>2013-03-10</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>13</episodeNumber>
+          <description>Rick y el Gobernador convocan a crear un tratado de paz con la esperanza de prevenir más muertes.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091063</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260059</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9700316</rootId>
+          <tmsId>EP013359690064</tmsId>
+          <title>Presa</title>
+          <airDate>2013-03-17</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>14</episodeNumber>
+          <description>El Gobernador persigue a un disidente fugitivo; un traidor intenta sabotear los planes del Gobernador mientras él está ausente.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091064</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260060</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9700321</rootId>
+          <tmsId>EP013359690065</tmsId>
+          <title>Esta vida triste</title>
+          <airDate>2013-03-24</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>15</episodeNumber>
+          <description>Rick y el grupo se enfrentan a un problema muy serio: si ellos quieren una tregua con el Gobernador, deben hacer un gran sacrificio.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091062</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260061</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9700324</rootId>
+          <tmsId>EP013359690066</tmsId>
+          <title>Bienvenidos a las tumbas</title>
+          <airDate>2013-03-31</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>16</episodeNumber>
+          <description>Rick y los otros consideran la defensa de la prisión mientras el ataque del Gobernador es inminente.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091061</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260062</url>
+              </urls>
+              <duration source="Netflix MX">2594</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10247825</rootId>
+          <tmsId>EP013359690091</tmsId>
+          <title>Dead Weight</title>
+          <airDate>2013-11-24</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>7</episodeNumber>
+          <description>Algo nuevo se desarrolla en un campo fuera de la prisión; la incorporación de nuevos miembros puede poner en peligro la paz.</description>
+          <rating>ACB R 18+, BBFC 18, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640842</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297530</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10247824</rootId>
+          <tmsId>EP013359690093</tmsId>
+          <title>Live Bait</title>
+          <airDate>2013-11-17</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Miembros del grupo se esfuerzan por encontrar su humanidad mientras son constantemente amenazados.</description>
+          <rating>ACB R 18+, BBFC 18, CPR 18+, R 18+, CSA -16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640843</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297529</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10243324</rootId>
+          <tmsId>EP013359690094</tmsId>
+          <title>Indifference</title>
+          <airDate>2013-11-03</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>La misión de abastecimiento enfrenta obstáculos; la situación en la prisión se agrava.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640845</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297527</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10247822</rootId>
+          <tmsId>EP013359690095</tmsId>
+          <title>Internment</title>
+          <airDate>2013-11-10</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>Enemigos presionan a Rick y al grupo; los sobrevivientes pueden llegar a un punto de ruptura.</description>
+          <rating>ACB R 18+, BBFC 18, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640844</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297528</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10305774</rootId>
+          <tmsId>EP013359690099</tmsId>
+          <title>Too Far Gone</title>
+          <airDate>2013-12-01</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>8</episodeNumber>
+          <description>Después de que las cosas empiezan a calmarse en la prisión, Rick y el grupo enfrentan peligro.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640841</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297531</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10492711</rootId>
+          <tmsId>EP013359690100</tmsId>
+          <title>No Sanctuary</title>
+          <airDate>2014-10-12</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>1</episodeNumber>
+          <description>Los verdaderos motivos de los Terminans salen a la luz cuando Rick y los otros terminan en una situación vulnerable.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440236933</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010527</url>
+              </urls>
+              <duration source="Netflix MX">2616</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10503666</rootId>
+          <tmsId>EP013359690105</tmsId>
+          <title>A</title>
+          <airDate>2014-03-30</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>16</episodeNumber>
+          <description>Muchos caminos chocan; Rick se enfrenta a la brutalidad; el grupo lucha por sobrevivir.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640836</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297539</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10426485</rootId>
+          <tmsId>EP013359690106</tmsId>
+          <title>After</title>
+          <airDate>2014-02-09</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>9</episodeNumber>
+          <description>Rick trata con viejas heridas; residentes de prisión consideran si sobrevivir será suficiente.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640840</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297532</url>
+              </urls>
+              <duration source="Netflix MX">2577</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10167254</rootId>
+          <tmsId>EP013359690108</tmsId>
+          <title>30 Days Without an Accident</title>
+          <airDate>2013-10-13</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>1</episodeNumber>
+          <description>El grupo vive una vida ideal en la cárcel, y se esfuerza por aferrarse a la humanidad.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640848</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297524</url>
+              </urls>
+              <duration source="Netflix MX">2581</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10167258</rootId>
+          <tmsId>EP013359690109</tmsId>
+          <title>Infected</title>
+          <airDate>2013-10-20</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>El grupo se enfrenta a un nuevo enemigo; Rick y los demás luchan para proteger su subsistencia ganada duramente.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640847</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297525</url>
+              </urls>
+              <duration source="Netflix MX">2581</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10167259</rootId>
+          <tmsId>EP013359690110</tmsId>
+          <title>Isolation</title>
+          <airDate>2013-10-27</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Un grupo sale de la cárcel en busca de suministros; los miembros restantes del grupo lidian con las pérdidas recientes.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640846</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297526</url>
+              </urls>
+              <duration source="Netflix MX">2579</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10503662</rootId>
+          <tmsId>EP013359690111</tmsId>
+          <title>The Grove</title>
+          <airDate>2014-03-16</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>14</episodeNumber>
+          <description>Después de establecer un nuevo refugio, el grupo considera que las cosas regresan a la forma que solían ser.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640834</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297537</url>
+              </urls>
+              <duration source="Netflix MX">2592</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10503664</rootId>
+          <tmsId>EP013359690112</tmsId>
+          <title>Us</title>
+          <airDate>2014-03-23</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>15</episodeNumber>
+          <description>Los sobrevivientes se basan en la brutalidad y la fe.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640835</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297538</url>
+              </urls>
+              <duration source="Netflix MX">2596</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10503658</rootId>
+          <tmsId>EP013359690113</tmsId>
+          <title>Still</title>
+          <airDate>2014-03-02</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>12</episodeNumber>
+          <description>Una misión iluminadora surge de una petición de uno de los miembros del grupo.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640837</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297535</url>
+              </urls>
+              <duration source="Netflix MX">2596</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10503660</rootId>
+          <tmsId>EP013359690114</tmsId>
+          <title>Alone</title>
+          <airDate>2014-03-09</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>13</episodeNumber>
+          <description>Un grupo descubre un refugio; un grupo tiene una realización acerca de la protección.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640833</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297536</url>
+              </urls>
+              <duration source="Netflix MX">2596</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10449658</rootId>
+          <tmsId>EP013359690115</tmsId>
+          <title>Inmates</title>
+          <airDate>2014-02-15</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>10</episodeNumber>
+          <description>El grupo enfrenta muchos obstáculos en su búsqueda de estabilidad y seguridad.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640839</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297533</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>10449659</rootId>
+          <tmsId>EP013359690116</tmsId>
+          <title>Claimed</title>
+          <airDate>2014-02-23</airDate>
+          <seasonNumber>4</seasonNumber>
+          <episodeNumber>11</episodeNumber>
+          <description>Un número de amenazas inmediatas plagan a Rick; miembros del grupo enfrentan su pasado.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>433640838</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70297534</url>
+              </urls>
+              <duration source="Netflix MX">2582</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11036703</rootId>
+          <tmsId>EP013359690119</tmsId>
+          <title>Strangers</title>
+          <airDate>2014-10-19</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>Rick lleva a cabo una arriesgada misión para una posible pequeña recompensa cuando los suministros se agotan y la desconfianza del grupo de personas crece.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237081</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010528</url>
+              </urls>
+              <duration source="Netflix MX">2578</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11036705</rootId>
+          <tmsId>EP013359690120</tmsId>
+          <title>Four Walls and a Roof</title>
+          <airDate>2014-10-26</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Rick y los demás se encuentran enfrentados con un grupo de gente desagradable, pero pueden tener un plan para ganar la mano.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237057</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010529</url>
+              </urls>
+              <duration source="Netflix MX">2589</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11119032</rootId>
+          <tmsId>EP013359690122</tmsId>
+          <title>Slabtown</title>
+          <airDate>2014-11-02</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>Otro grupo de sobrevivientes es presentado, y aunque las cosas parecen seguras y agradables, hay un poco del lado oscuro.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237082</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010530</url>
+              </urls>
+              <duration source="Netflix MX">2578</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11119034</rootId>
+          <tmsId>EP013359690123</tmsId>
+          <title>Auto ayuda</title>
+          <airDate>2014-11-09</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>El grupo afronta una nueva serie de problemas mientras está afuera en una misión, y deben llevar al extremo su instinto de supervivencia.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237031</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010531</url>
+              </urls>
+              <duration source="Netflix MX">2571</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11119042</rootId>
+          <tmsId>EP013359690125</tmsId>
+          <title>Crossed</title>
+          <airDate>2014-11-23</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>7</episodeNumber>
+          <description>Se acerca el electrizante final de la primera mitad de la quinta temporada, y ahora el grupo se separa, ocurriendo que algunos se quedan en la iglesia mientras otros están en una misión de rescate.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440236954</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010533</url>
+              </urls>
+              <duration source="Netflix MX">2574</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11119043</rootId>
+          <tmsId>EP013359690126</tmsId>
+          <title>Coda</title>
+          <airDate>2014-11-30</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>8</episodeNumber>
+          <description>Rick busca una salida pacífica al conflicto, pero sus enemigos la rechazan y prefieren zanjar las cosas de forma violenta.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237025</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010534</url>
+              </urls>
+              <duration source="Netflix MX">2576</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11119034</rootId>
+          <tmsId>EP013359690127</tmsId>
+          <title>Self Help</title>
+          <airDate>2014-11-09</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>El grupo afronta una nueva serie de problemas mientras está afuera en una misión, y deben llevar al extremo su instinto de supervivencia.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237031</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010531</url>
+              </urls>
+              <duration source="Netflix MX">2571</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11119036</rootId>
+          <tmsId>EP013359690128</tmsId>
+          <title>Consumed</title>
+          <airDate>2014-11-16</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Carol y Daryl persiguen a los captores de Beth por una Atlanta devastada. Pero su auto se queda sin gasolina y deben pasar la noche en un refugio para mujeres.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440236950</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010532</url>
+              </urls>
+              <duration source="Netflix MX">2571</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11389614</rootId>
+          <tmsId>EP013359690129</tmsId>
+          <title>What Happened and What's Going On</title>
+          <airDate>2015-02-08</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>9</episodeNumber>
+          <description>Para cumplir con la promesa que Beth le hizo Noah antes de morir, el grupo se dirige al barrio de Noah, esperando hallar allí protección y a otros supervivientes. Sin embargo, Rick y los suyos no quieren hacerse demasiadas esperanzas.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237090</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010535</url>
+              </urls>
+              <duration source="Netflix MX">2580</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11389615</rootId>
+          <tmsId>EP013359690130</tmsId>
+          <title>Them</title>
+          <airDate>2015-02-15</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>10</episodeNumber>
+          <description>El grupo se siente golpeado después de vivir la vida en la carretera, pero debe continuar arduamente a lo largo a pesar de los cambios que han incurrido.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237001</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010536</url>
+              </urls>
+              <duration source="Netflix MX">2579</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11389616</rootId>
+          <tmsId>EP013359690131</tmsId>
+          <title>The Distance</title>
+          <airDate>2015-02-22</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>11</episodeNumber>
+          <description>Después de soportar una tormenta espectacular, Rick y los otros se reúnen con una persona aparentemente amable, pero lo encuentran no confiable.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237098</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010537</url>
+              </urls>
+              <duration source="Netflix MX">2578</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11451156</rootId>
+          <tmsId>EP013359690132</tmsId>
+          <title>Remember</title>
+          <airDate>2015-03-01</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>12</episodeNumber>
+          <description>El grupo tiene un tiempo difícil para moldear un nuevo estilo de vida, lo que obliga a considerar si pueden ser las personas que alguna vez fueron.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237075</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010538</url>
+              </urls>
+              <duration source="Netflix MX">2582</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11451157</rootId>
+          <tmsId>EP013359690133</tmsId>
+          <title>Forget</title>
+          <airDate>2015-03-08</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>13</episodeNumber>
+          <description>Rick y el grupo continúan adaptándose a su nuevo entorno con la esperanza de que todo vuelva a la normalidad.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237108</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010539</url>
+              </urls>
+              <duration source="Netflix MX">2568</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11451161</rootId>
+          <tmsId>EP013359690134</tmsId>
+          <title>Spend</title>
+          <airDate>2015-03-15</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>14</episodeNumber>
+          <description>Mientras tratan de asegurar una nueva casa, Rick y su grupo afrontan desafíos, y cuestionan la utopía en la que ellos se encuentran.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237078</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010540</url>
+              </urls>
+              <duration source="Netflix MX">2583</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11451163</rootId>
+          <tmsId>EP013359690135</tmsId>
+          <title>Try</title>
+          <airDate>2015-03-22</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>15</episodeNumber>
+          <description>Cuando la vida dentro de los muros comienza a imitar la vida exterior, el grupo se da cuenta de que la vida protegida no puede ser posible.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237070</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010541</url>
+              </urls>
+              <duration source="Netflix MX">2582</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11451164</rootId>
+          <tmsId>EP013359690136</tmsId>
+          <title>Conquer</title>
+          <airDate>2015-03-29</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>16</episodeNumber>
+          <description>Daryl encuentra problemas mientras corría; Rick y el grupo se sienten como extraños en Alexandría, adonde los problemas se acercan.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440236958</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010542</url>
+              </urls>
+              <duration source="Netflix MX">3878</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11119036</rootId>
+          <tmsId>EP013359690137</tmsId>
+          <title>Consumido</title>
+          <airDate>2014-11-16</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Carol y Daryl persiguen a los captores de Beth por una Atlanta devastada. Pero su auto se queda sin gasolina y deben pasar la noche en un refugio para mujeres.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440236950</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010532</url>
+              </urls>
+              <duration source="Netflix MX">2571</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>11036705</rootId>
+          <tmsId>EP013359690157</tmsId>
+          <title>Cuatro paredes y un techo</title>
+          <airDate>2014-10-26</airDate>
+          <seasonNumber>5</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Rick y los demás se encuentran enfrentados con un grupo de gente desagradable, pero pueden tener un plan para ganar la mano.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>440237057</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80010529</url>
+              </urls>
+              <duration source="Netflix MX">2589</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12089365</rootId>
+          <tmsId>EP013359690160</tmsId>
+          <title>JSS</title>
+          <airDate>2015-10-18</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>Cuando la situación del grupo en Alexandria parece normalizarse, surge un nuevo problema para sus habitantes.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 16, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444939991</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031919</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12089357</rootId>
+          <tmsId>EP013359690161</tmsId>
+          <title>Gracias</title>
+          <airDate>2015-10-25</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Rick y un pequeño grupo atraviesan múltiples obstáculos para regresar a Alexandria, pero el problema es que quizá no todos lo consigan.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940013</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031920</url>
+              </urls>
+              <duration source="Netflix MX">2584</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12180231</rootId>
+          <tmsId>EP013359690164</tmsId>
+          <title>Here's Not Here</title>
+          <airDate>2015-11-01</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>Un nuevo personaje hace aparición. Con todo lo sucedido hasta el momento, ¿podrá el grupo depositar algo de confianza en esta persona? ¿Serán capaces de cambiar para bien de todo el grupo?</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940018</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031921</url>
+              </urls>
+              <duration source="Netflix MX">3886</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12180234</rootId>
+          <tmsId>EP013359690165</tmsId>
+          <title>Now</title>
+          <airDate>2015-11-08</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>La atmósfera que existe en Alexandria es bastante turbia después de una serie de contratiempos. ¿Podrán soportarlo los refugiados al otro lado de las verjas?</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 16, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940011</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031922</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12180238</rootId>
+          <tmsId>EP013359690166</tmsId>
+          <title>Always Accountable</title>
+          <airDate>2015-11-15</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Daryl, Abraham y Sasha se enfrentan a diversos obstáculos, incluyendo una nueva amenaza, en su intento de regresar a Alexandria después de una misión.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 16, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444939909</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031923</url>
+              </urls>
+              <duration source="Netflix MX">2586</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12180239</rootId>
+          <tmsId>EP013359690167</tmsId>
+          <title>Heads Up</title>
+          <airDate>2015-11-22</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>7</episodeNumber>
+          <description>Parece que por fin hay paz entre los dos grupos, pero la tranquilidad que ahora vive Alexandria sólo es aparente.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 16, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940021</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031924</url>
+              </urls>
+              <duration source="Netflix MX">2584</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12180242</rootId>
+          <tmsId>EP013359690168</tmsId>
+          <title>Start to Finish</title>
+          <airDate>2015-11-29</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>8</episodeNumber>
+          <description>Tras un breve período de supuesta paz, los problemas vuelven a alterar el orden en Alejandría y, en esta ocasión, la amenaza puede que sea demasiado grande como para ser derribada.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 16, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940014</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031925</url>
+              </urls>
+              <duration source="Netflix MX">2575</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12025283</rootId>
+          <tmsId>EP013359690169</tmsId>
+          <title>Primera Vez de Nuevo</title>
+          <airDate>2015-10-11</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>1</episodeNumber>
+          <description>Mientras el grupo sigue teniendo problemas para adaptarse a Alexandria, una nueva amenaza podría estrechar los vínculos o complicarlos aún más.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 16, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940006</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031918</url>
+              </urls>
+              <duration source="Netflix MX">3886</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12089357</rootId>
+          <tmsId>EP013359690170</tmsId>
+          <title>Thank You</title>
+          <airDate>2015-10-25</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Rick y un pequeño grupo atraviesan múltiples obstáculos para regresar a Alexandria, pero el problema es que quizá no todos lo consigan.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940013</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031920</url>
+              </urls>
+              <duration source="Netflix MX">2584</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12384429</rootId>
+          <tmsId>EP013359690189</tmsId>
+          <title>Sin salida</title>
+          <airDate>2016-02-14</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>9</episodeNumber>
+          <description>Ahora que los caminantes han traspasado las barreras de Alexandría, Rick y los otros sobrevivientes deben seguir luchando para mantenerse a salvo e intentar no perder la esperanza.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction, Action</genre>
+          <videos>
+            <video>
+              <id>446307325</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031926</url>
+              </urls>
+              <duration source="Netflix MX">2582</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12530499</rootId>
+          <tmsId>EP013359690192</tmsId>
+          <title>Aún no es mañana</title>
+          <airDate>2016-03-06</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>12</episodeNumber>
+          <description>Un nuevo enemigo amenaza la paz en Alexandria y Rick y el grupo deciden que la única manera de vencerlo es combatir.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>446307328</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031929</url>
+              </urls>
+              <duration source="Netflix MX">2583</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12530509</rootId>
+          <tmsId>EP013359690196</tmsId>
+          <title>Este</title>
+          <airDate>2016-03-27</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>15</episodeNumber>
+          <description>Alguien desaparece de Alexandria y toda la comunidad se coordina para localizarlo. Sin embargo, lo que algunos de ellos encuentran no es lo que andaban buscando.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>446307331</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031932</url>
+              </urls>
+              <duration source="Netflix MX">2575</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12580504</rootId>
+          <tmsId>EP013359690198</tmsId>
+          <title>El último día en la Tierra</title>
+          <airDate>2016-04-03</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>16</episodeNumber>
+          <description>Para salvar a Maggie, que se encuentra enferma, el grupo de Rick se aventura fuera de los muros de Alexandria. Pero los hombres de Negan los están esperando en la carretera.</description>
+          <rating>ACB R 18+, BBFC 18, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>446307332</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031933</url>
+              </urls>
+              <duration source="Netflix MX">3876</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>9498959</rootId>
+          <tmsId>EP013359690214</tmsId>
+          <title>Perseguido</title>
+          <airDate>2012-11-18</airDate>
+          <seasonNumber>3</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Mientras Andrea se acerca cada vez más al gobernador, Michonne toma una decisión importante acerca de Woodbury; Glenn y Maggie van corriendo; Rick tiene dificultades.</description>
+          <rating>ACB R 18+, CPR 14+, R 18+, CSA -16, DJCTQ 16, FSF 18, M K18, FPB 18, USAPR TV14</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>432091071</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/70260052</url>
+              </urls>
+              <duration source="Netflix MX">2585</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13226499</rootId>
+          <tmsId>EP013359690221</tmsId>
+          <title>El pozo</title>
+          <airDate>2016-10-30</airDate>
+          <seasonNumber>7</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>Carol y Morgan son conducidos hasta una comunidad que parece segura y bien abastecida. Todo resulta tan idílico, que la desconfianza ante lo que están presenciando aflora en ellos.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>449763726</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80202476</url>
+              </urls>
+              <duration source="Netflix MX">2765</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>SD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13323456</rootId>
+          <tmsId>EP013359690222</tmsId>
+          <title>La celda</title>
+          <airDate>2016-11-06</airDate>
+          <seasonNumber>7</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Negan mantiene a Daryl encerrado en una celda, pero le propone que se someta a él y pasará a disfrutar de los privilegios de los que gozan los suyos. Se descubre el pasado de Dwight y por qué tiene la cara desfigurada.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>449763727</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80202477</url>
+              </urls>
+              <duration source="Netflix MX">2559</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>SD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13645838</rootId>
+          <tmsId>EP013359690235</tmsId>
+          <title>Nuevos mejores amigos</title>
+          <airDate>2017-02-19</airDate>
+          <seasonNumber>7</seasonNumber>
+          <episodeNumber>10</episodeNumber>
+          <description>Mientras buscan a Gabriel, Rick y el grupo se topan con una misteriosa región cuyos habitantes son completamente diferentes a todo lo que han conocido hasta ahora.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, FSF 16, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>449763734</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80202484</url>
+              </urls>
+              <duration source="Netflix MX">2765</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>SD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13868739</rootId>
+          <tmsId>EP013359690242</tmsId>
+          <title>El primer día del resto de tu vida</title>
+          <airDate>2017-04-02</airDate>
+          <seasonNumber>7</seasonNumber>
+          <episodeNumber>16</episodeNumber>
+          <description>La batalla final contra los Salvadores se aproxima, mientras Sasha se encuentra a merced de Negan y Dwight trata de demostrar a Rick que ha sido sincero con ellos y quiere ver a Negan muerto.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, FSF 16, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>449763740</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80202490</url>
+              </urls>
+              <duration source="Netflix MX">3604</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>SD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13743131</rootId>
+          <tmsId>EP013359690271</tmsId>
+          <title>Algo que necesitan</title>
+          <airDate>2017-03-26</airDate>
+          <seasonNumber>7</seasonNumber>
+          <episodeNumber>15</episodeNumber>
+          <description>El grupo de Rick lleva a cabo una peligrosa misión para obtener armas de la comunidad de mujeres en la que estuvo Tara, quieran ellas o no cooperar. Además, Negan mantiene cautiva a Sasha.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>449763739</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80202489</url>
+              </urls>
+              <duration source="Netflix MX">2582</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>SD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13327588</rootId>
+          <tmsId>EP013359690272</tmsId>
+          <title>Servicio</title>
+          <airDate>2016-11-13</airDate>
+          <seasonNumber>7</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>Los miembros del grupo de Alexandria están desmoralizados debido a los trágicos acontecimientos que acaban de ocurrir, pero al mismo tiempo deben prepararse para el encuentro con Negan. Éste llega antes de lo previsto y les arrebata las armas.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>449763728</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80202478</url>
+              </urls>
+              <duration source="Netflix MX">3559</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>SD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13743129</rootId>
+          <tmsId>EP013359690275</tmsId>
+          <title>Enterradme aquí</title>
+          <airDate>2017-03-12</airDate>
+          <seasonNumber>7</seasonNumber>
+          <episodeNumber>13</episodeNumber>
+          <description>Los Salvadores acuden a un encuentro con habitantes del Reino para llevarse los suministros que les cobran a cambio de protección, pero algo sucede y las cosas no marchan tal y como deberían.</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K16, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>449763737</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80202487</url>
+              </urls>
+              <duration source="Netflix MX">2825</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>SD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>12180231</rootId>
+          <tmsId>EP013359690278</tmsId>
+          <title>Aquí no es aquí</title>
+          <airDate>2015-11-01</airDate>
+          <seasonNumber>6</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>Un nuevo personaje hace aparición. Con todo lo sucedido hasta el momento, ¿podrá el grupo depositar algo de confianza en esta persona? ¿Serán capaces de cambiar para bien de todo el grupo?</description>
+          <rating>ACB R 18+, CPR 18+, R 18+, CSA -16, DJCTQ 16, FSF 18, ICAV 18, M K18, FPB 18, USAPR TVMA</rating>
+          <genre>Drama, Horror, Science fiction</genre>
+          <videos>
+            <video>
+              <id>444940018</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80031921</url>
+              </urls>
+              <duration source="Netflix MX">3886</duration>
+              <updatedAt>2018-04-16</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+      </episodes>
+    </series>
+    <series>
+      <rootId>12991665</rootId>
+      <tmsId>SH025136540000</tmsId>
+      <seriesId>12991665</seriesId>
+      <title>Stranger Things</title>
+      <description>Cuando un niño desaparece, sus amigos, la familia y la policía se ven envueltos en una serie de eventos misteriosos al tratar de encontrarlo. Su ausencia coincide con el avistamiento de una criatura terrorífica y la aparición de una extraña niña.</description>
+      <airDate>2016-07-15</airDate>
+      <seasons>
+      </seasons>
+      <episodes>
+        <episode>
+          <rootId>12991781</rootId>
+          <tmsId>EP025136540007</tmsId>
+          <title>Capítulo uno: La desaparición de Will Byers</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>1</episodeNumber>
+          <description>En su camino de regreso a casa, Will se encuentra con algo terrorífico. Un laboratorio del gobierno guarda un secreto.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344631</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077368</url>
+              </urls>
+              <duration source="Netflix MX">2903</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13076927</rootId>
+          <tmsId>EP025136540008</tmsId>
+          <title>Capítulo dos: La loca de la calle Maple</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>2</episodeNumber>
+          <description>Mike, Dustin y Lucas intentan conversar con la chica que vieron en el bosque. Joyce dice haber sido contactada por Will, pero Hopper no termina de creerle.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344681</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077369</url>
+              </urls>
+              <duration source="Netflix MX">3315</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13076936</rootId>
+          <tmsId>EP025136540009</tmsId>
+          <title>Capítulo tres: Todo está bien</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>3</episodeNumber>
+          <description>Joyce cree que Will quiere comunicarse con ella e instala luces navideñas para lograrlo.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344628</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077370</url>
+              </urls>
+              <duration source="Netflix MX">3103</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13076942</rootId>
+          <tmsId>EP025136540010</tmsId>
+          <title>Capítulo cuatro: El cuerpo</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>4</episodeNumber>
+          <description>Hooper descubre que el cadáver es falso, es un muñeco. Él demuestra a los chicos que Will vive, interceptando lo que dice a su madre a través del walkie-talkie. Joyce, desesperada al oír hablar a su hijo a través de la pared, la parte con un hacha.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344627</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077371</url>
+              </urls>
+              <duration source="Netflix MX">3019</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13076947</rootId>
+          <tmsId>EP025136540011</tmsId>
+          <title>Capítulo cinco: La pulga y el acróbata</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>5</episodeNumber>
+          <description>Los chicos concluyen que Will está en otra dimensión y con ayuda de sus brújulas, van en su busca. Por el camino, se descubre más sobre el pasado de El y en qué manera está relacionada con el monstruo. Mientras, Nancy entra en la otra dimensión.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344632</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077372</url>
+              </urls>
+              <duration source="Netflix MX">3169</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13076950</rootId>
+          <tmsId>EP025136540012</tmsId>
+          <title>Capítulo seis: El monstruo</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>6</episodeNumber>
+          <description>Jonathan salva a Nancy de la criatura y pasa la noche con ella, lo que Steve observa en secreto. Para vengarse de ella, la humilla públicamente y se pelea con Jonathan a golpes. Mientras, Eleven reaparece en el momento en que Mike más la necesita.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344690</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077373</url>
+              </urls>
+              <duration source="Netflix MX">2795</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13076953</rootId>
+          <tmsId>EP025136540013</tmsId>
+          <title>Capítulo siete: La bañera</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>7</episodeNumber>
+          <description>Eleven intenta entrar en contacto con Will, pero Lucas alerta que los malos los han localizado. Por su parte, Jonathan y Nancy le enseñan a Hooper la fotografía de Barbara en la piscina, y todos se cuentan mutuamente lo que saben del monstruo.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344684</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077374</url>
+              </urls>
+              <duration source="Netflix MX">2512</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+        <episode>
+          <rootId>13076956</rootId>
+          <tmsId>EP025136540014</tmsId>
+          <title>Capítulo ocho: El otro lado</title>
+          <airDate>2016-07-15</airDate>
+          <seasonNumber>1</seasonNumber>
+          <episodeNumber>8</episodeNumber>
+          <description>Nancy y Jonathan se preparan para el enfrentamiento definitivo contra el monstruo, y Hopper y Joyce acuerdan con el Dr. Brenner que se adentrarán en la otra dimensión para buscar a Will. Mientras, Eleven y los niños esperan en el gimnasio.</description>
+          <rating>ACB M, CPR 14+, USAPR TV14</rating>
+          <genre>Drama, Science fiction, Mystery</genre>
+          <videos>
+            <video>
+              <id>441344619</id>
+              <host id="70912">Netflix MX</host>
+              <urls>
+                <url type="web">http://www.netflix.com/title/80077375</url>
+              </urls>
+              <duration source="Netflix MX">3275</duration>
+              <updatedAt>2016-12-06</updatedAt>
+              <viewingOptions>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD</quality>
+                    <resolution>720p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>HD+</quality>
+                    <resolution>1080p</resolution>
+                  </video>
+                </viewingOption>
+                <viewingOption>
+                  <license>subscription</license>
+                  <video>
+                    <quality>UHD</quality>
+                  </video>
+                </viewingOption>
+              </viewingOptions>
+            </video>
+          </videos>
+        </episode>
+      </episodes>
+    </series>
+  </onlineTv>
+  <onlineMovies>
+  </onlineMovies>
+  <onlineSpecials>
+  </onlineSpecials>
+  <onlineSports>
+  </onlineSports>
+</ovd>

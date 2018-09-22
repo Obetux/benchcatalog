@@ -2,7 +2,7 @@
 
 namespace App\Command;
 
-use App\Entity\VODContent;
+use App\Entity\VodContent;
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\EntityManagerInterface;
 use DOMDocument;
@@ -45,11 +45,11 @@ class AppLoadVodCvaCommand extends Command
 
         $doc = new DOMDocument();
 //        $doc->load('C:\wamp64\www\benchcatalog\public\HBO_Sola_Contra_el_Poder_HD_STR.XML');
-        $doc->load('C:\wamp64\www\benchcatalog\public\HBO_Succession_T1_E01_HD_STR.XML');
+        $doc->load('e:\wamp64\www\benchcatalog\public\HBO_Succession_T1_E01_HD_STR.XML');
 
 
-        $vod = new VODContent();
-
+        $vod = new VodContent();
+        $vod->setSource('cva');
 
         $adi = $doc->getElementsByTagName("ADI")->item(0);
 
@@ -60,7 +60,8 @@ class AppLoadVodCvaCommand extends Command
         $asset = $adi->getElementsByTagName('Asset')->item(0);
         $assetMetadata = $asset->getElementsByTagName('Metadata')->item(0);
         $assetMetadataAMS = $assetMetadata->getElementsByTagName('AMS')->item(0);
-//        dump($assetMetadataAMS->getAttribute('Asset_Class') );
+//        dump($assetMetadataAMS->getAttribute('Asset_ID') );exit;
+        $vod->setAssetId($assetMetadataAMS->getAttribute('Asset_ID'));
 
         $assetMetadataAppData = $assetMetadata->getElementsByTagName('App_Data');
 
