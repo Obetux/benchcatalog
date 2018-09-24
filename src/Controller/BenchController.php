@@ -23,8 +23,21 @@ class BenchController extends Controller
                 'No product found for id '.$id
             );
         }
+
+        $id = 2;
+        $gracenote = $this->getDoctrine()
+            ->getRepository(VodContent::class)
+            ->find($id);
+
+        $id = 3;
+        $tivo = $this->getDoctrine()
+            ->getRepository(VodContent::class)
+            ->find($id);
+
         return $this->render('bench/index.html.twig', [
             'cva' => $product,
+            'gracenote' => $gracenote,
+            'tivo' => $tivo,
         ]);
     }
 }
